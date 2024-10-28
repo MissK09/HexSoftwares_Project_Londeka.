@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1730102065 source:c:\users\londeka\onedrive\desktop\hexsoftware_project1\todo_list.cpp
+	"todo_list.h"
+
+1730102065 source:c:\users\londeka\onedrive\desktop\hexsoftware_project1\main.cpp
+	"todo_list.h"
+
+1730102065 c:\users\londeka\onedrive\desktop\hexsoftware_project1\todo_list.h
+	<iostream>
+	<vector>
+	<string>
+
